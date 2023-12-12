@@ -13,7 +13,7 @@ function Home(props) {
         <div className="container main bg-light py-5">
           <img src={ClassicLogo} width="300" alt="icon" />
           <div className="our-achivements py-3">
-            <h4 className="text-primary">Safari kids dashboard</h4>
+            <h4 className="text-primary">Classic Group dashboard</h4>
           </div>
         </div>
       </div>

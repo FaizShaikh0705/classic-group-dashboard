@@ -3,16 +3,14 @@ require("firebase/database");
 require("firebase/auth");
 
 const config = {
-
-  apiKey: "AIzaSyD-2iXrk4Us7Q_ip7UWcmknWnuT_WRAYf4",
-  authDomain: "safari-kids-dashboard.firebaseapp.com",
-  databaseURL: "https://safari-kids-dashboard-default-rtdb.firebaseio.com",
-  projectId: "safari-kids-dashboard",
-  storageBucket: "safari-kids-dashboard.appspot.com",
-  messagingSenderId: "511232456212",
-  appId: "1:511232456212:web:07a1134675098770fc1901",
-  measurementId: "G-CNLEC7ZK9J"
-
+  apiKey: "AIzaSyC4CxhJ3enMogDp9JVFzRl2aYUtU1Kf1J4",
+  authDomain: "classic-dashboard-ac157.firebaseapp.com",
+  databaseURL: "https://classic-dashboard-ac157-default-rtdb.firebaseio.com",
+  projectId: "classic-dashboard-ac157",
+  storageBucket: "classic-dashboard-ac157.appspot.com",
+  messagingSenderId: "586153030856",
+  appId: "1:586153030856:web:9b54687db90967cca921fd",
+  measurementId: "G-V5Q8K5SEDK"
 };
 
 const fire = firebase.initializeApp(config);
