@@ -2,7 +2,7 @@ import React, { useState, useContext } from 'react';
 import fire from '../../config/Fire';
 import { AuthContext } from '../../context/Auth';
 import { withRouter, Redirect, Link } from 'react-router-dom';
-import KidoLogo from '../../assets/kido-logo.jpg';
+import ClassicLogo from '../../assets/logo2.jpg';
 import './Login.css';
 
 
@@ -35,7 +35,7 @@ function Login(props) {
     <div className="authentication">
     <div className="container">
     <div className="text-center">
-            <img src={KidoLogo} width="300" alt="icon"/>
+            <img src={ClassicLogo} width="300" alt="icon"/>
           </div>
         <div className="row justify-content-center">
        
