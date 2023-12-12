@@ -1,5 +1,5 @@
 {
-  "name": "classic-group-dashboard",
+  "name": "safari-kid-dashboard",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,16 +10,19 @@
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
     "axios": "^0.21.4",
+    "build": "^0.1.4",
     "firebase": "^8.7.1",
     "html-react-parser": "^1.2.4",
     "jquery": "^3.6.0",
     "jspdf": "^2.4.0",
     "moment": "^2.29.4",
+    "npm": "^10.2.5",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-moment": "^1.1.1",
     "react-router-dom": "^5.3.0",
-    "react-scripts": "4.0.3",
+    "react-scripts": "^5.0.1",
+    "run": "^1.4.0",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
